@@ -1,0 +1,9 @@
+body {
+  background: #ddd;
+}
+body a {
+  color: #ABCDEF;
+}
+body a:hover {
+  color: red;
+}

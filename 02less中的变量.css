@@ -1,0 +1,9 @@
+body {
+  background: #ddd;
+}
+body .p1 {
+  color: red;
+}
+body .p2 {
+  color: yellow;
+}

@@ -1,0 +1,5 @@
+使用less的方式：
+1.引入对应的less文件，同时引入less.js文件完成对less文件的解析，将less文件解析成css文件
+2.配置hBuilder插件
+3.koala软件实时监控，将项目拖进去，会生成对应的css文件，在页面中只需要引入css文件就可以了
+4.向less文件中倒入指定的less文件 @import "文件名";
